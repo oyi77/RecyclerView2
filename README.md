@@ -8,5 +8,5 @@ Created By :
 * School : SMK Telkom Malang
 
 
-![Image of List](https://github.com/oyi77/RecyclerView2/blob/master/Screenshot_2.jpg)
-![Image of Grid](https://github.com/oyi77/RecyclerView2/blob/master/Screenshot_1.jpg)
+![Image of List](https://github.com/oyi77/RecyclerView2/blob/origin/master2/Screenshot_2.jpg)
+![Image of Grid](https://github.com/oyi77/RecyclerView2/blob/origin/master2/Screenshot_1.jpg)
